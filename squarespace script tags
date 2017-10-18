@@ -1,0 +1,10 @@
+<script src="./The Boba Room_files/js"></script>
+	<script type="text/javascript" charset="UTF-8" src="./The Boba Room_files/common.js.download"></script>
+	<script type="text/javascript" charset="UTF-8" src="./The Boba Room_files/map.js.download"></script>
+	<script type="text/javascript" charset="UTF-8" src="./The Boba Room_files/util.js.download"></script>
+	<script type="text/javascript" charset="UTF-8" src="./The Boba Room_files/marker.js.download"></script>
+
+	<script type="text/javascript" charset="UTF-8" src="./The Boba Room_files/onion.js.download"></script>
+	<script type="text/javascript" charset="UTF-8" src="./The Boba Room_files/controls.js.download"></script>
+	<script type="text/javascript" src="chrome-extension://aadgmnobpdmgmigaicncghmmoeflnamj/ng-inspector.js"></script>
+	<script type="text/javascript" charset="UTF-8" src="./The Boba Room_files/stats.js.download"></script>
