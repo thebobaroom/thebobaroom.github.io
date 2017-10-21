@@ -1,4 +1,0 @@
-Must add a copyright character on the bottom of each page and for the home screen, 
-there needs to be a video link on the end of the page .
-
-Need: API calls to Google Maps and Instagram
