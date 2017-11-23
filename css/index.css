@@ -200,6 +200,11 @@
 
 
 .collection{
-	display:none !important;
+/*	display:none !important;*/
 /*visibility: hidden;*/
+}
+
+#ticketHide{
+		display:none !important;
+/*	visibility: hidden;*/
 }
