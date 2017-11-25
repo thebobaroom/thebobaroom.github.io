@@ -5,8 +5,7 @@
 var hamburgerClicked = false;
 
 $('.mobile-nav-toggle').click(function (event) {
-	$('#hamburger').css('display', 'inline');
-
+	$('#hamburger').css('display', 'inline');	
 	event.stopPropagation();
 })
 
@@ -17,6 +16,7 @@ function setburger(tagClass) {
 		setTimeout(function () {
 			//			$(tagClass).css('border', '1px solid white');
 			$(tagClass).css('color', 'black');
+			
 		}, 125)
 	})
 }
@@ -36,3 +36,20 @@ $(document).click(function (e) {
 
 	}
 });
+
+
+$('#home').click(function(){
+	window.location.href = 'https://www.thebobaroom.com';
+})
+$('#boba').click(function(){
+	window.location.href = 'https://www.thebobaroom.com/boba.html';
+})
+$('#store').click(function(){
+	window.location.href = 'https://www.thebobaroom.com/store.html';
+})
+$('#about').click(function(){
+	window.location.href = 'https://www.thebobaroom.com/about.html';
+})
+$('#tickets').click(function(){
+	window.location.href = 'https://www.thebobaroom.com/tickets.html';
+})

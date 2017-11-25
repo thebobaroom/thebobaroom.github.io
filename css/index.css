@@ -194,9 +194,10 @@
 
 #hamburger {
 	display: none;
+	z-index:1000;
 	position: absolute;
 	top: 30%;
-	left: 35%;
+	left: 30%;
 	background-color: white;
 	paddinG: 10%;
 	border: 3px solid rgba(229, 159, 133, 1);
