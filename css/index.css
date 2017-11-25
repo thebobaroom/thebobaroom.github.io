@@ -197,8 +197,6 @@
 	}
 }
 
-
-
 .collection{
 /*	display:none !important;*/
 /*visibility: hidden;*/
@@ -207,4 +205,8 @@
 #ticketHide{
 		display:none !important;
 /*	visibility: hidden;*/
+}
+
+.back-to-top{
+	display: none !important;
 }
