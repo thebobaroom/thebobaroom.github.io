@@ -8,3 +8,5 @@ interface header change
 shopping cart/buying mechanism
 version 1: click button to buy
 version 2: click Add to Cart to add to cart in new modal w/ quantities and updates
+
+Store deadline: 	by January 
